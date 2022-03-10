@@ -1,6 +1,8 @@
 # Firmware for UWB localization with TOF and TDoA using Decawave's DWM1001-DEV board
 Firmware for Decawave DWM1001-Dev devices: ToF and TDoA localization
 
+This Firmware allows the Decawave DWM1001-Dev devices to obtain the TOF and TDOA information neede for localization. For the localization computation please refere to https://github.com/TIERS/active-passive-uwb-ros
+
 ## Installation
 
 **NOTE:** We recomment using Keil µVision IDE if SES version is not available any more.
